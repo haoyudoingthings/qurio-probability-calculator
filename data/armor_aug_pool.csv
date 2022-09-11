@@ -1,4 +1,4 @@
-﻿ArmorSeries,ID,AugPool,budget
+ArmorSeries,ID,AugPool,Budget
 Kamura Legacy,300,1,20
 Leather X,301,1,20
 Chainmail X,302,1,20
@@ -108,7 +108,7 @@ Arc,390,5,12
 Storge,391,5,12
 Malzeno,402,5,12
 Professor,410,5,12
-Charité,411,5,12
+Charit?,411,5,12
 Scholarly,417,5,12
 Commission,418,5,12
 Jelly X,325,5,12
@@ -128,4 +128,3 @@ Pride,401,6,10
 Golden Lune,428,6,10
 Silver Sol,429,6,10
 Lucent Narga,431,6,10
-NONE,0,0,0
